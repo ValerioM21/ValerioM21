@@ -1,16 +1,13 @@
-## Hi there 👋
+## Valerio Manca
 
-<!--
-**ValerioM21/ValerioM21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Shopify app and backend developer — Node.js, TypeScript, PostgreSQL.
 
-Here are some ideas to get you started:
+I build the part of Shopify that isn't themes: custom apps, Shopify
+Functions, webhooks and integrations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**[Hide COD by Cart Total](https://github.com/ValerioM21/hide-cod-by-cart-total)** —
+public Shopify app, currently in App Store review. Payment Customization
+Function, OAuth, GDPR webhooks, embedded admin UI in React Router 7.
+
+Based in Sardinia, Italy (CET). Available for contract work.
+[LinkedIn](https://www.linkedin.com/in/valerio-manca-2690882b7)
